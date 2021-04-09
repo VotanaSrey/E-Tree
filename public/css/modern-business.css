@@ -1,0 +1,115 @@
+/*!
+ * Start Bootstrap - Modern Business (https://startbootstrap.com/template/modern-business)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+  background-color:  #f0f0f0;
+}
+
+.nav-link:hover {
+  background-color: #f1f198;
+  border-radius: 30px;
+}
+
+.logo {
+  height: 38px;
+  background-color: #F8F9FA;
+}
+
+.btn {
+  padding: 5px;
+  background-color: #94BD3D;
+  border-color: #94BD3D;
+  border-radius: 20px;
+}
+
+.color {
+  color: #94BD3D;
+}
+
+.carousel-item {
+  height: 65vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
+
+#myBtn {
+  display: none;
+  position: fixed; 
+  bottom: 20px; 
+  right: 20px; 
+  z-index: 99; 
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 3px;
+  border-radius: 200px;
+}
+
+.follow:hover {
+  padding: 3px;
+}
+
+.text:hover {
+  padding: 5px;
+}
+
+.footerlogo {
+  height: 50px;
+  border-radius: 50px;
+  padding: 1px;
+  background-color: white;
+}
+
+.learn-more {
+  color: white;
+}
+
+.learn-more:hover {
+  padding: 5px;
+  color: #94BD3D;
+}
+
+/* my account */
+  .account-settings .user-profile {
+      margin: 0 0 1rem 0;
+      padding-bottom: 1rem;
+      text-align: center;
+  }
+  .account-settings .user-profile .user-avatar {
+      margin: 0 0 1rem 0;
+  }
+  .account-settings .user-profile .user-avatar img {
+      width: 100px;
+      height: 100px;
+      -webkit-border-radius: 100px;
+      -moz-border-radius: 100px;
+      border-radius: 100px;
+  }
+  .account-settings .user-profile h5.user-name {
+      margin: 0 0 0.5rem 0;
+  }
+  .account-settings .user-profile h6.user-email {
+      margin: 0;
+      font-size: 0.8rem;
+      font-weight: 400;
+  }
+  .account-settings .about {
+      margin: 1rem 0 0 0;
+      font-size: 0.8rem;
+      text-align: center;
+  }
+
+  .my-border {
+    border-color: #94BD3D;
+  }
